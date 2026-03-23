@@ -1,0 +1,11 @@
+pandas
+
+numpy
+
+MinMaxScaler
+
+TfidfVectorizer
+
+CountVectorizer
+
+cosine_similarity
