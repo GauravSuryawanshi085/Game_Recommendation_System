@@ -13,11 +13,11 @@ A Machine Learning-based **Game Recommendation System** that suggests games base
 👉 Run locally:
 ```bash
 streamlit run app.py
-📊 Power BI Dashboard (Live)
+## 📊 Power BI Dashboard (Live)
 
 ![Dashboard](screenshots/dashboard.png)
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 This project recommends games by analyzing multiple features such as:
 
