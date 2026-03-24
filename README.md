@@ -1,16 +1,20 @@
-🎮 Game Recommendation System
+# 🎮 Game Recommendation System
 
-A Machine Learning-based Game Recommendation System that suggests games based on user preferences using a Hybrid Recommendation Approach (Content-Based + Similarity).
+A Machine Learning-based **Game Recommendation System** that suggests games based on user preferences using a **Hybrid Recommendation Approach (Content-Based + Similarity)**.
 
 🚀 Built to help users discover new games intelligently.
 
-🚧 Streamlit App: 
-fetch files and run in terminal as:
- streamlit run app.py
+---
 
-📊 Power BI Dashboard (Live):
-![dashboard](screenshots/dashboard.png)
+## 🌐 Live Demo
 
+🚧 Streamlit App:  
+Fetch files and run locally:
+
+```bash
+streamlit run app.py
+📊 Power BI Dashboard (Live)
+![Dashboard](screenshots/dashboard.png)
 🚀 Project Overview
 
 This system recommends games by analyzing:
@@ -23,19 +27,15 @@ Features 🎮
 It uses Natural Language Processing (NLP) and similarity techniques to provide accurate recommendations.
 
 🧠 Machine Learning Approach
-
 ✔ Content-Based Filtering using TF-IDF Vectorization
 ✔ Similarity Calculation using Cosine Similarity
 ✔ Hybrid approach combining multiple features
-
 ✨ Features
-
 ✅ Search any game and get top recommendations
 ✅ Fast and optimized recommendation system
 ✅ Interactive UI using Streamlit
 ✅ Real-time recommendation logging
 ✅ Power BI dashboard for analytics
-
 📂 Project Structure
 Game_Recommendation_System/
 │
@@ -74,14 +74,14 @@ Displays top recommendations
 
 The project includes a live analytics dashboard built using Power BI.
 
-🔹 Key Insights:
+🔹 Key Insights
 📈 Recommendation trends over time
 🎮 Most recommended games
 👤 User interaction behavior
 🔍 Popular search patterns
 
 👉 Live Dashboard Link:
-(Paste your Power BI link here)
+Paste your Power BI link here
 
 ## 📸 Screenshots
 
@@ -89,7 +89,7 @@ The project includes a live analytics dashboard built using Power BI.
 ![App](screenshots/home.png)
 
 ### 🔍 Recommendations
-![Result](screenshots/result.png)
+![Results](screenshots/result.png)
 
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
@@ -98,8 +98,8 @@ The project includes a live analytics dashboard built using Power BI.
 Developed a Hybrid Game Recommendation System using ML
 Implemented TF-IDF & Cosine Similarity
 Built UI using Streamlit
-Designed Power BI dashboard for real-time analytics
-Tracked user interactions using logging system
+Designed Power BI dashboard for analytics
+Implemented user interaction logging system
 🔮 Future Improvements
 Collaborative Filtering
 Deep Learning recommendations
@@ -115,10 +115,10 @@ Power BI
 👨‍💻 Author
 
 Gaurav Suryawanshi
-Aspiring Data Scientist / ML Engineer
+Data Scientist / ML Engineer
 
 🔗 GitHub: https://github.com/GauravSuryawanshi085
 
 ⭐ Support
 
-If you like this project, give it a ⭐
+If you like this project, give it a ⭐ on GitHub!
