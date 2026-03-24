@@ -18,8 +18,6 @@ streamlit run app.py
 
 📊 Power BI Dashboard (Live)
 
-![Dashboard](screenshots/dashboard.png)
-
 🚀 Project Overview
 
 This project recommends games by analyzing multiple features such as:
@@ -34,7 +32,7 @@ It uses Natural Language Processing (NLP) and similarity-based techniques to gen
 🧠 Machine Learning Approach
 Content-Based Filtering using TF-IDF Vectorization
 Similarity computation using Cosine Similarity
-Hybrid logic combining multiple features for better recommendations
+Hybrid logic combining multiple features
 ✨ Features
 🔍 Search any game and get recommendations
 ⚡ Fast and optimized recommendation engine
@@ -85,25 +83,24 @@ The project includes a live analytics dashboard built using Power BI.
 👤 User interaction behavior
 🔍 Popular search patterns
 
-## 📸 Screenshots
+👉 Add your dashboard link here
 
-### 🎮 App Home
-![App](screenshots/home.png)
+📸 Screenshots
+🎮 App Home
 
-### 🔍 Recommendations
-![Result](screenshots/result.png)
+🔍 Recommendations
 
-### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+📊 Dashboard
 
 🧾 Resume Highlights
+
 Developed a Hybrid Game Recommendation System using Machine Learning
-Applied TF-IDF & Cosine Similarity for recommendations
+Applied TF-IDF & Cosine Similarity
 Built an interactive UI using Streamlit
 Designed Power BI dashboard for analytics
 Implemented user interaction logging system
 🔮 Future Improvements
-Add Collaborative Filtering
+Collaborative Filtering
 Deep Learning-based recommendations
 Cloud deployment
 User authentication system
