@@ -9,7 +9,7 @@ fetch files and run in terminal as:
  streamlit run app.py
 
 📊 Power BI Dashboard (Live):
-![dashboard](screenshots/home.png)
+![dashboard](screenshots/dashboard.png)
 
 🚀 Project Overview
 
@@ -89,7 +89,7 @@ The project includes a live analytics dashboard built using Power BI.
 ![App](screenshots/home.png)
 
 ### 🔍 Recommendations
-![Results](screenshots/results.png)
+![Result](screenshots/result.png)
 
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
