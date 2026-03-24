@@ -8,9 +8,10 @@ A Machine Learning-based **Game Recommendation System** that suggests games base
 
 ## 🌐 Live Demo
 
-🚧 Streamlit App
+🚧 Streamlit App  
 
 👉 Run locally:
+
 ```bash
 streamlit run app.py
 
