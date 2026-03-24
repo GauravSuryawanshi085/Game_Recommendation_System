@@ -4,12 +4,12 @@ A Machine Learning-based Game Recommendation System that suggests games based on
 
 🚀 Built to help users discover new games intelligently.
 
-🌐 Live Demo
-
-🚧 Streamlit App: Coming soon
+🚧 Streamlit App: 
+fetch files and run in terminal as:
+ streamlit run app.py
 
 📊 Power BI Dashboard (Live):
-👉 Add your dashboard link here
+![dashboard](screenshots/home.png)
 
 🚀 Project Overview
 
@@ -83,8 +83,16 @@ The project includes a live analytics dashboard built using Power BI.
 👉 Live Dashboard Link:
 (Paste your Power BI link here)
 
-📸 Screenshots
+## 📸 Screenshots
 
+### 🎮 App Home
+![App](screenshots/home.png)
+
+### 🔍 Recommendations
+![Results](screenshots/results.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 🧾 Resume Highlights
 Developed a Hybrid Game Recommendation System using ML
